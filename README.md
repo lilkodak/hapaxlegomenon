@@ -1,0 +1,2 @@
+# hapaxlegomenon
+Første github projekt
